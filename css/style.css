@@ -1,0 +1,20 @@
+#loading_daftar{
+	color: blue;
+	font-style: italic;
+	visibility:hidden; 
+}
+
+#keterangan{
+	padding: 3px;
+	font-weight: bold;
+}
+
+.sukses{
+	border: 1px solid green;
+	color: green;
+}
+
+.gagal{
+	border: 1px solid red;
+	color: red;
+}
